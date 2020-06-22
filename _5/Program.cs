@@ -38,8 +38,8 @@ namespace _5
         }
         static void Main(string[] args)
         {
-            string str1 = "qqqqqqqqq";
-            string str2 = "ooooooooo";
+            string str1 = "qwerty";
+            string str2 = "123456";
             string str3 = "";
             Addition(1, 2, 3, 4, 5);
 
